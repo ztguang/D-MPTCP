@@ -1,6 +1,6 @@
-# QMPTCP
+# DMPTCP
 
-# Delay-Aware Multi-Next-Hop Multi-Path Data Transmission Service in Mobile Ad-hoc Networks
+# Congestion Control Based MPTCP Packet Scheduling in Hybrid Ad-Hoc Network
 
 The main source code related to this paper and all experiment-related files can be obtained from the link below, which will assist you in reproducing the experiments.
 
