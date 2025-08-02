@@ -1,4 +1,4 @@
-# DMPTCP
+# D-MPTCP
 
 # Congestion Control Based MPTCP Packet Scheduling in Hybrid Ad-Hoc Network
 
